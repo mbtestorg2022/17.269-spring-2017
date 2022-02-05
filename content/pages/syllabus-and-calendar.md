@@ -42,53 +42,463 @@ For more information on the course assignments, see the [Assignments]({{< baseur
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Papers (2) | 50% |
-| Final exam | 35% |
-| Class participation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers (2)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DUE DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Module I: What is Race?**{{< /td-colspan >}} |||
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**History / International Comparisons**{{< /td-colspan >}} |||
-| 2 | The American Racial Order | &nbsp; |
-| 3 | A Little History: How Did We Get Here? | &nbsp; |
-| {{< td-colspan 3 >}}**Measurement and Policy**{{< /td-colspan >}} |||
-| 4 | How Do We Measure Race / Ethnicity? | &nbsp; |
-| 5 | Measurement Matters | &nbsp; |
-| {{< td-colspan 3 >}}**Social Science Challenges**{{< /td-colspan >}} |||
-| 6 | Discrimination and Causality | Paper assignment 1 distributed |
-| 7 | Some Methods | &nbsp; |
-| {{< td-colspan 3 >}}**Module II: Public Opinion and Behavior**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Racial Attitudes: Measurement and Effects**{{< /td-colspan >}} |||
-| 8 | Introduction to Racial Attitudes | &nbsp; |
-| 9 | Linking Attitudes to Outcomes | &nbsp; |
-| 10 | Campaigns, Advertising, Media | Paper assignment 1 due |
-| {{< td-colspan 3 >}}**Race in Context**{{< /td-colspan >}} |||
-| 11 | Context and Conflict | &nbsp; |
-| 12 | Context and Attitudes / Action | &nbsp; |
-| {{< td-colspan 3 >}}**Patterns in Participation and Mobilization**{{< /td-colspan >}} |||
-| 13 | Stylized Facts / Overview of Group Participation | &nbsp; |
-| 14 | Factors in Turnout | Paper assignment 2 distributed |
-| 15 | Other Political Behaviors | &nbsp; |
-| 16 | Does Protest Work? | &nbsp; |
-| {{< td-colspan 3 >}}**Module III: Political Elites and Institutions**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Descriptive Representation: Concept & Practice**{{< /td-colspan >}} |||
-| 17 | Descriptive Representation: Theory and Empirics | &nbsp; |
-| 18 | Majority-Minority Districts | Paper assignment 2 due |
-| {{< td-colspan 3 >}}**Voting Rights and Electoral Districting**{{< /td-colspan >}} |||
-| 19 | Overview of Voting Rights and Electoral Districting | &nbsp; |
-| {{< td-colspan 3 >}}**Race and the Political System**{{< /td-colspan >}} |||
-| 20 | Race and Political Parties | &nbsp; |
-| 21 | Courts; Broad Review | &nbsp; |
-| {{< td-colspan 3 >}}**Race and Policy**{{< /td-colspan >}} |||
-| 22 | Overview of Race and Policy | &nbsp; |
-| 23 |  {{< br >}}{{< br >}} Carceral State 1: Film Screening {{< br >}}{{< br >}} [_13th_](http://www.avaduvernay.com/13th/). Directed by Ava Duvernay. Color, 100 min. 2016. {{< br >}}{{< br >}}  | &nbsp; |
-| 24 | Carceral State 2: Political Causes | &nbsp; |
-| 25 | Carceral State 3: Political Consequences | &nbsp; |
-| 26 | Conclusion |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module I: What is Race?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**History / International Comparisons**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The American Racial Order
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+A Little History: How Did We Get Here?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Measurement and Policy**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+How Do We Measure Race / Ethnicity?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Measurement Matters
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Social Science Challenges**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Discrimination and Causality
+{{< tdclose >}}
+{{< tdopen >}}
+Paper assignment 1 distributed
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Some Methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module II: Public Opinion and Behavior**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Racial Attitudes: Measurement and Effects**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Racial Attitudes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Linking Attitudes to Outcomes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Campaigns, Advertising, Media
+{{< tdclose >}}
+{{< tdopen >}}
+Paper assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Race in Context**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Context and Conflict
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Context and Attitudes / Action
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Patterns in Participation and Mobilization**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Stylized Facts / Overview of Group Participation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Factors in Turnout
+{{< tdclose >}}
+{{< tdopen >}}
+Paper assignment 2 distributed
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Other Political Behaviors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Does Protest Work?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module III: Political Elites and Institutions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Descriptive Representation: Concept & Practice**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Descriptive Representation: Theory and Empirics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Majority-Minority Districts
+{{< tdclose >}}
+{{< tdopen >}}
+Paper assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Voting Rights and Electoral Districting**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Voting Rights and Electoral Districting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Race and the Political System**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Race and Political Parties
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Courts; Broad Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Race and Policy**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Race and Policy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Carceral State 1: Film Screening
+
+[_13th_](http://www.avaduvernay.com/13th/). Directed by Ava Duvernay. Color, 100 min. 2016.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Carceral State 2: Political Causes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Carceral State 3: Political Consequences
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
