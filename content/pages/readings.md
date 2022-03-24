@@ -113,7 +113,7 @@ Swidey, Neil. "[Trump's Anti-Immigration Playbook was Written 100 Years Ago. In 
 ### Optional
 
 _Those interested in the history of immigration in the US may want to check out this online syllabus from the Immigration History Research Center:_  
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[#ImmigrationSyllabus: Essential Topics, Readings, and Multimedia that Provide Historical Context to Current Debates over Immigration Reform, Integration, and Citizenship (PDF)](http://drive.google.com/file/d/0B1eIDteoJgugVGRkcTRyb3RnRnc/edit).
+[#ImmigrationSyllabus: Essential Topics, Readings, and Multimedia that Provide Historical Context to Current Debates over Immigration Reform, Integration, and Citizenship (PDF)](http://drive.google.com/file/d/0B1eIDteoJgugVGRkcTRyb3RnRnc/edit).
 
 
 {{< tdclose >}}
@@ -137,9 +137,9 @@ How Do We Measure Race / Ethnicity?
 
 \[P\] Anderson, Margo J. Chapter 12: Counting by Race: The Antebellum Legacy.
 
-American Sociological Association. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Importance of Collecting Data and Doing Scientific Research on Race." (PDF)](http://www.asanet.org/images/press/docs/pdf/asa_race_statement.pdf) 2003.
+American Sociological Association. ["The Importance of Collecting Data and Doing Scientific Research on Race." (PDF)](http://www.asanet.org/images/press/docs/pdf/asa_race_statement.pdf) 2003.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Race and Multiracial Americans in the U.S. Census." (PDF - 1.6MB)](http://assets.pewresearch.org/wp-content/uploads/sites/3/2015/06/2015-06-11_multiracial-in-america_final-updated.pdf). Chapter 1 in _Multiracial in America: Proud, Diverse and Growing in Numbers_. Pew Research Center, June 11, 2015.
+["Race and Multiracial Americans in the U.S. Census." (PDF - 1.6MB)](http://assets.pewresearch.org/wp-content/uploads/sites/3/2015/06/2015-06-11_multiracial-in-america_final-updated.pdf). Chapter 1 in _Multiracial in America: Proud, Diverse and Growing in Numbers_. Pew Research Center, June 11, 2015.
 
 Zimmer, Carl. "[White? Black? A Murky Distinction Grows Still Murkier](https://www.nytimes.com/2014/12/25/science/23andme-genetic-ethnicity-study.html)," _New York Times_, December 24, 2014.
 
@@ -412,7 +412,7 @@ _(Revisit.)_
 
 Wallace, Sophia J., Chris Zepeda-Millán, et al. "[Spatial and Temporal Proximity: Examining the Effects of Protests on Political Attitudes](http://www.jstor.org/stable/24363495)." _American Journal of Political Science_ 58, no. 2 (2014): 433–48.
 
-Williamson, Vanessa, Kris-Stella Trump, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Black Lives Matter: Evidence of Grievance as a Predictor of Protest Activity." (PDF)](http://sites.bu.edu/kleinstein/files/2017/01/BLM_for-review_-non-anon.pdf)
+Williamson, Vanessa, Kris-Stella Trump, et al. ["Black Lives Matter: Evidence of Grievance as a Predictor of Protest Activity." (PDF)](http://sites.bu.edu/kleinstein/files/2017/01/BLM_for-review_-non-anon.pdf)
 
 
 {{< tdclose >}}
@@ -432,7 +432,7 @@ Cyrus, Logan R. "[Making Black Voices Matter](https://www.nytimes.com/roomfordeb
 
 Gillion, Daniel Q. "[Protest and Congressional Behavior: Assessing Racial and Ethnic Minority Protests in the District](http://www.jstor.org/stable/10.1017/s0022381612000539)." _Journal of Politics_ 74, no. 4 (2012): 950–62.
 
-Wasow, Omar. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Do Protests Matter? Evidence from the 1960s Black Insurgency." (PDF)](http://www.omarwasow.com/Protests_on_Voting.pdf) February 2, 2017.  
+Wasow, Omar. "[Do Protests Matter? Evidence from the 1960s Black Insurgency." (PDF)](http://www.omarwasow.com/Protests_on_Voting.pdf) February 2, 2017.  
 (_Just read the paper itself. Students aren't expected to go through all of the appendices at the end_.)
 
 
@@ -525,7 +525,7 @@ Howe, Amy. "[Future of Voting Rights Up in the Air](http://www.scotusblog.com/20
 
 Katz, Ellen D. "[How Big is Shelby County?](http://www.scotusblog.com/2013/06/how-big-is-shelby-county/)" SCOTUSBlog, June 25, 2013.
 
-Shelby County, Alabama v., Eric H. Holder, Jr., et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Brief of Historians and Social Scientists as Amici Curiae in Support of Respondents."](https://www.yumpu.com/en/document/read/34618056/historians-and-social-scientists-the-lawyers-committee-for-civil-) U.S. Supreme Court, February 1, 2013.  
+Shelby County, Alabama v., Eric H. Holder, Jr., et al. ["Brief of Historians and Social Scientists as Amici Curiae in Support of Respondents."](https://www.yumpu.com/en/document/read/34618056/historians-and-social-scientists-the-lawyers-committee-for-civil-) U.S. Supreme Court, February 1, 2013.  
 (_The whole argument is worth reading. But if pressed for time, read "Summary of Argument" and Section D, pp. 17–22_.)
 
 White, Ariel. "[Voter Discrimination Starts Well Before Election Day](http://bostonreview.net/politics/ariel-white-voter-id-laws)." _Boston Review_, November 1, 2016.
@@ -687,7 +687,7 @@ Carceral State 3: Political Consequences
 
 Weaver, Vesla M., and Amy E. Lerman. "[Political Consequences of the Carceral State](https://doi.org/10.1017/S0003055410000456)." _American Political Science Review_ 104, no. 4 (2010): 817–33.
 
-### Background info on Attorney General Jeff Sessions' ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Memo (PDF)](https://assets.documentcloud.org/documents/3719247/Jeff-Sessions-s-criminal-charging-policy.pdf) on drug prosecutions
+### Background info on Attorney General Jeff Sessions' [Memo (PDF)](https://assets.documentcloud.org/documents/3719247/Jeff-Sessions-s-criminal-charging-policy.pdf) on drug prosecutions
 
 Horwitz, Sari, and Matt Zapotosky. "[Sessions Issues Sweeping New Criminal Charging Policy](https://www.washingtonpost.com/world/national-security/sessions-issues-sweeping-new-criminal-charging-policy/2017/05/11/4752bd42-3697-11e7-b373-418f6849a004_story.html?utm_term=.2355ff55e618)," _Washington Post_, May 12, 2017.
 
