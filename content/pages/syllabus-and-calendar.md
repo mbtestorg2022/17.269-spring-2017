@@ -20,7 +20,7 @@ There are no prerequisites for this course.
 Course Description
 ------------------
 
-This is an undergraduate class on the role of race and ethnicity in American politics.There are no official prerequisites, but a basic understanding of American political institutions (as would be gained from _[17.20 Introduction to American Politics](/courses/17-20-introduction-to-american-politics-spring-2013/)_) will be helpful, as will a willingness to engage with complex reading material. The focus will be on political science theories and research about race and politics, though we will also draw on work from sociology, history, and economics.
+This is an undergraduate class on the role of race and ethnicity in American politics.There are no official prerequisites, but a basic understanding of American political institutions (as would be gained from _[17.20 Introduction to American Politics](/courses/17-20-introduction-to-american-politics-spring-2013)_) will be helpful, as will a willingness to engage with complex reading material. The focus will be on political science theories and research about race and politics, though we will also draw on work from sociology, history, and economics.
 
 We will ask big social science questions about race in America: What is "race"? How could we possibly measure it, and does it really matter? What does it mean to say that a policy is discriminatory, and how have social scientists and courts tried to measure racial discrimination? What do Americans think about race in the 21st century, and how do these opinions shape their voting and protest behavior?
 

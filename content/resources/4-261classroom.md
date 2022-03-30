@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: d27a77b2-f718-69f2-d927-fd60d4e96eb9
 resourcetype: Image
 title: 4-261classroom.jpg
 uid: 82daf8d5-f11d-d6e2-483b-155c53fc3e1a
